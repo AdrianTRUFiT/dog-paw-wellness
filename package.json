@@ -1,10 +1,10 @@
 {
-  "name": "dog-paw-wellness-app",
+  "name": "dog-paw-wellness",
   "version": "1.1.0",
   "private": true,
   "description": "Dog Paw Wellness - AI Canine Companion for everyday dog care",
   "keywords": ["dog", "pet-care", "wellness", "mobile-app", "react"],
-  "author": "Your Name",
+  "author": "AdrianTRUFiT",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://YOURUSERNAME.github.io/YOURREPONAME"
+  "homepage": "https://AdrianTRUFiT.github.io/dog-paw-wellness"
 }
